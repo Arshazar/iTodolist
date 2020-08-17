@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders AddTodo 1`] = `ShallowWrapper {}`;
+
+exports[`renders ShowTodo component 1`] = `ShallowWrapper {}`;
+
+exports[`renders Undo component 1`] = `ShallowWrapper {}`;
+
+exports[`renders VisibleTodoList component 1`] = `ShallowWrapper {}`;
